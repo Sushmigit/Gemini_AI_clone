@@ -1,4 +1,4 @@
-
+# Gemini_AI_clone
 Developed a clone of the Gemini AI platform using React.js and Google APIs. This project features:
 
 User Interface: Replicated the core functionalities and design of the Gemini AI, including a user-friendly interface for interacting with AI services.
